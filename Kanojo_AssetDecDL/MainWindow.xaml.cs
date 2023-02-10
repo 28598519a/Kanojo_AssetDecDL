@@ -163,7 +163,7 @@ namespace Kanojo_AssetDecDL
                 }
             }
 
-            string[] fileList = Directory.GetFiles(selectPath, "*", SearchOption.TopDirectoryOnly);
+            string[] fileList = Directory.GetFiles(selectPath, "*", SearchOption.AllDirectories);
             foreach (string file in fileList)
             {
                 byte[] data = File.ReadAllBytes(file);
