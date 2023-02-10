@@ -15,3 +15,6 @@
 ## Usage
 1. 下載(Download) : 下載需要選擇hot_file_list.dat
 2. Decrypt : 需要選擇資料夾
+
+## Sample
+![](https://user-images.githubusercontent.com/33422418/218058722-1ecb4c63-ed2f-4891-9962-a42979e06cb0.PNG)
